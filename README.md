@@ -10,7 +10,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=nextdotjs)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-🔗 **Live demo:** _deploy to Netlify pending_
+🔗 **Live demo:** https://harvest-hub-b15.netlify.app
 📜 **HarvestHub (Sepolia):** [0xc11faB6eA199Ebd60207d5b8C3de2C3b0aB918d4](https://sepolia.etherscan.io/address/0xc11faB6eA199Ebd60207d5b8C3de2C3b0aB918d4)
 
 ---
